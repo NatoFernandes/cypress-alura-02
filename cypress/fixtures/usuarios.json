@@ -1,0 +1,45 @@
+[
+    {
+      "email": "allstar01@harklasers.com",
+      "fullName": "Pepe La Anguila",
+      "userName": "laanguila",
+      "password": "teste01@"
+    },
+    {
+      "email": "maracaibo@harklasers.com",
+      "fullName": "Chapolin Colorado",
+      "userName": "chapolin",
+      "password": "teste01@"
+    },
+    {
+      "email": "chavodel8@harklasers.com",
+      "fullName": "El Chavo Del Ocho",
+      "userName": "chavo",
+      "password": "teste01@"
+    },
+    {
+      "email": "mariachi@harklasers.com",
+      "fullName": "Javier Ramorano",
+      "userName": "ramorano",
+      "password": "teste01@"
+    },
+
+    {
+      "email": "elmerci@harklasers.com",
+      "fullName": "Merciliano Rodriguez",
+      "userName": "merci",
+      "password": "teste01@"
+    },
+    {
+      "email": "chilindrina@harklasers.com",
+      "fullName": "Chilindrina Velasquez",
+      "userName": "chilindrina",
+      "password": "teste01@"
+    },
+    {
+      "email": "doctor@harklasers.com",
+      "fullName": "Augusto Ramirez Marquez",
+      "userName": "marquez",
+      "password": "teste01@"
+    }
+]
